@@ -1,0 +1,29 @@
+Five devices
+
+RAM
+NVME
+SSD
+Hard Drive
+Burst Buffer layers
+
+List of Specs:
+Latency
+
+Data warp is a tool
+
+Goal of benchmarking
+To understand the appl behavior to get latency. Based on access patterns
+
+IDENTIFY WHAT ARE THE POINTS OF INTEREST
+
+Identity hardware
+Specs of hardware
+
+Network is important for remote layers
+Network Specification (all of them, switch, wiring, etc)
+
+Start with the four main policies and analyze what devices might be affected and see what variables are important.
+Figure the tree out.
+
+
+

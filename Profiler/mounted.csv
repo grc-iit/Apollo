@@ -1,0 +1,3 @@
+driver,dev,fs,free_GB,percent_GB,total_GB,used_GB,mount_point,opts
+sda,/dev/sda6,ext4,4.645782470703125,82.1,27.37491226196289,21.31658172607422,/,"rw,relatime,errors=remount-ro,data=ordered"
+sda,/dev/sda8,ext4,36.11606979370117,50.5,76.88133239746094,36.818878173828125,/home,"rw,relatime,data=ordered"

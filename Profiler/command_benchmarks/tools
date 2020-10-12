@@ -1,0 +1,10 @@
+lsipc
+lsblk
+free -hw
+cat /proc/meminfo
+vmstat -s 
+vmstat -w
+dmidecode
+uptime
+dstat -Dmisty 1 1
+dstat --vm --vm-adv --aio --fs --ipc --mem-adv --unix 1 1

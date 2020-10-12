@@ -1,0 +1,6 @@
+[submodule "SCoRe"]
+	path = SCoRe
+	url = git@github.com:scs-lab/SCoRe.git
+[submodule "scs_io_common"]
+	path = scs_io_common
+	url = git@github.com:scs-lab/scs_io_common.git

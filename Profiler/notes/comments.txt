@@ -1,0 +1,21 @@
+[slabtop]
+I don't know what they are but it seems like its something about the dynamic memory allocator
+
+[dmidecode]
+This is a full description of the memory technologies available and their speeds. 
+However, I don't have it in my system. I check it on a centOS and it seems to work
+ONLY with kernel priviledges.
+
+[valgrind]
+I know it is a heavy program but it can be used for everything in the world.
+It might be worth analyzing if there is something we can obtain with it.
+
+[sar -r -R]
+It is an incredible tool that shows information of memory but also all kinds of
+system stats. It seems to work with centOS. it doesn't work with my computer.
+
+[dstat]
+Real time monitorying and it is also available in centOS but not in my system.
+
+[uptime]
+gives the load average of memory, it can be useful for long monitorying of data
